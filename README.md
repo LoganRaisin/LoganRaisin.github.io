@@ -18,4 +18,4 @@
 -Je parle des projets que j'ai réalisé, je acule sur les pages correspondantes
 -Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
 -Je présente mes bonnes pratiques:
- --Respect des normes
+--Respect des normes
