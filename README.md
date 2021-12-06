@@ -3,7 +3,7 @@
  
  **OBJECTIFS :**
  
- 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
+ #1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
 |![Netbeans](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/100px-Apache_NetBeans_Logo.svg.png)|(https://www.softfluent.fr/wp-content/uploads/2019/10/html5.png)
 - **NetBeans**: Environnement de développement intégré (IDE) utilisé pour ce projet
 - **HTML**: Langage de descriptions utilisé pour concevoir les pages web
@@ -12,7 +12,7 @@
 - **Git**: Logiciel de gestion
 - **GitHub**: Forge logicielle en ligne utilisant Git
 
-2. Pour l'épreuve **E4**
+#2. Pour l'épreuve **E4**
 
 -Je me présente et présente mon parcours, j'affiche mon CV
 -Je parle des projets que j'ai réalisé, je acule sur les pages correspondantes
