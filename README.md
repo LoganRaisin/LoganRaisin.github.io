@@ -1,5 +1,5 @@
 # LoganRaisin.github.io
- **OBJECTIF :**
+ **OBJECTIFS :**
 
 Portfolio de Logan RAISIN
-- **NetBeans**
+- **NetBeans**: Environnement de développement intégré (IDE) utilisé pour ce projet
